@@ -1,6 +1,7 @@
 .DS_Store
 build/
 *.xcodeproj/*
+*.xcuserstate
 !*.xcodeproj/project.pbxproj
 .rvmrc
 
